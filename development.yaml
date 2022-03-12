@@ -1,0 +1,10 @@
+# 测试
+mysql:
+  host: 121.43.232.38
+  port: 3306
+  username: root
+  password: 1234
+  database: fund
+
+# 日志等级
+log_level: 10
